@@ -22,7 +22,7 @@ let areatrapezio= function(dro,gras,baratas){
 console.log(areatrapezio(69,24,666))
 
 function valores(v1,v2,v3){
-return v1+v2+v3
+return v1+v2+v3/3
 }
 
 console.log (valores(3,4,5))
