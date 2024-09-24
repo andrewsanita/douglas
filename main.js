@@ -25,4 +25,6 @@ function valores(v1,v2,v3){
 return v1+v2+v3/3
 }
 
-console.log parseInt(prompt('coloca 3 numeros ae'))
+parseInt(prompt('coloca os 3 nomes ae'))
+
+console.log 
