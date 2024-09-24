@@ -25,4 +25,4 @@ function valores(v1,v2,v3){
 return v1+v2+v3
 }
 
-console.log (valores(any,any,any))
+console.log (valores(3,4,5))
