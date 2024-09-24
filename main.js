@@ -17,4 +17,4 @@ let areatrapezio= function(dro,gras,baratas){
     return (dro+gras)*baratas/2
 }
 
-console.log(43,42,1)
+console.log(areatrapezio(69,24,666))
