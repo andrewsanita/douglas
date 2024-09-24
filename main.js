@@ -13,6 +13,8 @@ function areaQuadrado(lado){
     return lado*2;
 }
 
+console(areaQuadrado(6))
+
 let areatrapezio= function(dro,gras,baratas){
     return (dro+gras)*baratas/2
 }
