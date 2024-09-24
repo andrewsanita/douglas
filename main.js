@@ -8,3 +8,7 @@ function multiplicação(num3,num4){
 }
 
 console.log(multiplicação(6,6));
+
+function areaQuadrado(lado){
+    return lado*2;
+}
